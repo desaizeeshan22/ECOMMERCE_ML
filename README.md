@@ -1,3 +1,4 @@
+Link to kaggle dataset: https://www.kaggle.com/jmmvutu/summer-products-and-sales-in-ecommerce-wish
 Context
 Studying top products requires more than just product listings. You also need to know what sells well and what does not.
 
